@@ -1,0 +1,21 @@
+Tiago Oliveira 
+1.Explique o que é Visão Computacional
+
+Visão computacional é o estudo da capacidade de maquinas enxergarem. Essas máquinas são capazes de observar o mundo em sua volta por meio de câmeras e radares, por exemplo, e extrair informações necessária para a execução de um trabalho. 
+
+
+2.Dê cincoexemplos de aplicação do uso de Visão Computação, podendo estarem ligadas a outras áreas de atuação. Explique o que fazem essas aplicações
+
+Um dos exemplos mais óbvios são os carros autônomos, capazes de enxergar e compreender o trânsito em sua volta, e assim, se deslocar sozinho de um ponto ao outro
+Outro exemplo são as câmeras dispostas em rodovias capazes de contar a quantidade de veículos que passaram por aquele trecho em um determinado momento. Uma sistema de inteligencia artificial é capaz de diferir os diferentes veículos e gerar relatórios sobre o movimento. Foi usada na motociata do Bolsonaro em são Paulo, onde apoiadores do presidente diseram ter masi de um milhão de motoqueiros, e um sistema desse revelou que o numero era bem menor, cerca de 15 mil motos.
+Outro exemplo bem famoso são algumas redes sociais, capazes de identificar as pessoas de uma foto, possibilitando que voce marque as pessoas na foto sem ter que ficar procurando uma a uma. outro exemplo é o google fotos, que é capaz de criar albuns sozinhos de diferentes pessoas, usando visão computacional e inteligencia artificial para diferir as pessoas e criar os albuns
+Outro exemplo bastante polêmico são câmeras de segurança com reconhecimento facial, capazes de identificar as pessoas que passam por ela e, através de um complexo sistema de monitoramento, podem rastrear, perseguir e conhecer todos os passos de uma pessoa. Essas câmeras são utilizadas, por exemplo, no centro de distribuição da Amazon, onde em tempos de pandemia estão sendo usadas para garantir o distanciamento social entre os funcionarios. 
+Por fim, temos tambem os sistemas de realidade aumentada, que integram um cenário digital com um cenário captado pela câmera. Alguns aplicativos, como o Google Tradutor é capaz de ler uma imagem com palavras e traduz em tempo reals, substituindo a palavra na camera. 
+
+
+3.Em Visão Computacional, o que podemos dizer sobre "detecção"?
+Detecção é a identificação de algo genérico. Por exemplo, detectar um rosto, um carro, um animal, uma palavra.
+
+
+4.Em visão computacional, o que podemos dizer sobre "reconhecimento"?
+Reconhecimento é a identificação de algo específico. Por exemplo, dois rostos diferentes, podem ser detectados como rosots, porém reconhecidos com rosta de pessoa A e rosto de pessoa B. Outro exemplo é a detecção de dois carros e o reconhecimento diz que um é um sedan e o outro uma ferrari
